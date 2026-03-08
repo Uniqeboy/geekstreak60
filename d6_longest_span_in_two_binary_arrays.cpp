@@ -1,3 +1,7 @@
+/*
+Given two binary arrays, a1[] and a2[] of equal length. Find the length of longest
+common span (i, j), where i<= j such that a1[i] + a1[i+1] + .... + a1[j] =  a2[i] + a2[i+1] + ... + a2[j].
+*/
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {

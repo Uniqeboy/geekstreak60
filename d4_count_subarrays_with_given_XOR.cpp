@@ -1,3 +1,8 @@
+/* 
+Given an array of integers arr[] and a number k, count the number of subarrays having
+XOR of their elements as k.
+Note: It is guranteed that the total count will fit within a 32-bit integer.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {

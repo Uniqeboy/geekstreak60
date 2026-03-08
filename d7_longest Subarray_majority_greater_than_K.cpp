@@ -1,3 +1,8 @@
+/*
+Given an array arr[] and an integer k, the task is to find the length of longest subarray
+in which the count of elements greater than k is more than the count of elements less than
+or equal to k.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
